@@ -296,6 +296,13 @@
   }
 
   @media  (max-width: 375px) {
+  .tituloResponsive
+  {
+    font-size: 14px;
+    margin: auto;
+    font-weight: bold;
+    text-align: center;
+  }
     .imglogo
     {
         width: 90%;
@@ -306,6 +313,13 @@
     }
   }
   @media  (max-width: 414px) {
+    .tituloResponsive
+  {
+    font-size: 14px;
+    margin: auto;
+    font-weight: bold;
+    text-align: center;
+  }
     .imglogo
     {
         width: 90%;
@@ -356,7 +370,7 @@
   }
   @media (min-width: 1401px){
     .MedioAmb{
-        margin-left: 6px;
+        margin-left: 136px;
       }
   }
 
