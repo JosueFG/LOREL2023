@@ -258,6 +258,16 @@
 
 }
 
+.MedioAmb
+{
+    position: relative;
+    width: 450px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    left: 420px;
+    
+}
+
 .logoFooter
 {
     position: relative;
