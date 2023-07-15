@@ -1,10 +1,11 @@
 <?php
 
     $destinatario = 'josueflores13199@gmail.com';
-    $destinatario = 'josuecode27@gmail.com';
+    
 
     $nombre = $_POST['nombre'];
     $asunto = $_POST['asunto'];
+    $producto = $_POST['producto'];
     $email = $_POST['email'];
     $mensaje = $_POST['msg'];
 
