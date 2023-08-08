@@ -293,6 +293,12 @@
     .MedioAmb{
         left: 63px;
     }
+    .imglogoHero
+    {
+        width: 90%;
+        margin-left: 0px;
+        margin-top:-57px;
+    }
   }
 
   @media  (max-width: 375px) {
@@ -311,6 +317,11 @@
     .MedioAmb{
         margin-left: -496px;
     }
+    .imglogoHero
+    {
+        width: 90%;
+        margin-left: 0px;
+    }
   }
   @media  (max-width: 414px) {
     .tituloResponsive
@@ -327,6 +338,11 @@
     }
     .MedioAmb{
         margin-left: -480px;
+    }
+    .imglogoHero
+    {
+        width: 90%;
+        margin-left: 0px;
     }
   }
 
@@ -349,11 +365,23 @@
     .MedioAmb{
         left: 201px;
     }
+    .imglogoHero
+    {
+        width: 90%;
+        margin-left: 0px;
+        margin-bottom: 200px;
+    }
   }
 
   @media  (max-width: 912px) {
     .MedioAmb{
         left: 63px;
+    }
+    .imglogoHero
+    {
+        width: 90%;
+        margin-left: 0px;
+        margin-bottom: 200px;
     }
   }
 
@@ -361,12 +389,14 @@
     .MedioAmb{
       margin-left: -193px;
     }
+   
   }
 
   @media (min-width: 1300px)  {
     .MedioAmb{
       margin-left: -43px;
     }
+   
   }
   @media (min-width: 1401px){
     .MedioAmb{
@@ -377,6 +407,12 @@
   @media  (max-width: 1600px) {
     .MedioAmb{
         left: 482px;
+    }
+    .imglogoHero
+    {
+        width: 70%;
+        margin-left: 100px;
+        margin-bottom: 100px;
     }
   }
 

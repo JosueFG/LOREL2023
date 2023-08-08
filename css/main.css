@@ -2884,6 +2884,15 @@ input.num-product::-webkit-inner-spin-button {
   z-index: 2;
 
 }
+.imglogoHero
+{
+  position: absolute;
+  width: 40%;
+  margin-top: -130px;
+  margin-left: 190px;
+  z-index: 2;
+
+}
 
 
 
